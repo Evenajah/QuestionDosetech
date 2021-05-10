@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/QuestionDosetech/static/css/main.83ececa4.chunk.css",
+    "main.js": "/QuestionDosetech/static/js/main.4a3edf58.chunk.js",
+    "main.js.map": "/QuestionDosetech/static/js/main.4a3edf58.chunk.js.map",
+    "runtime-main.js": "/QuestionDosetech/static/js/runtime-main.b3845dce.js",
+    "runtime-main.js.map": "/QuestionDosetech/static/js/runtime-main.b3845dce.js.map",
+    "static/css/2.7309276f.chunk.css": "/QuestionDosetech/static/css/2.7309276f.chunk.css",
+    "static/js/2.7565f47f.chunk.js": "/QuestionDosetech/static/js/2.7565f47f.chunk.js",
+    "static/js/2.7565f47f.chunk.js.map": "/QuestionDosetech/static/js/2.7565f47f.chunk.js.map",
+    "static/js/3.0c301641.chunk.js": "/QuestionDosetech/static/js/3.0c301641.chunk.js",
+    "static/js/3.0c301641.chunk.js.map": "/QuestionDosetech/static/js/3.0c301641.chunk.js.map",
+    "index.html": "/QuestionDosetech/index.html",
+    "static/css/2.7309276f.chunk.css.map": "/QuestionDosetech/static/css/2.7309276f.chunk.css.map",
+    "static/css/main.83ececa4.chunk.css.map": "/QuestionDosetech/static/css/main.83ececa4.chunk.css.map",
+    "static/js/2.7565f47f.chunk.js.LICENSE.txt": "/QuestionDosetech/static/js/2.7565f47f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/QuestionDosetech/static/media/primeicons.e61f3495.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3845dce.js",
+    "static/css/2.7309276f.chunk.css",
+    "static/js/2.7565f47f.chunk.js",
+    "static/css/main.83ececa4.chunk.css",
+    "static/js/main.4a3edf58.chunk.js"
+  ]
+}
